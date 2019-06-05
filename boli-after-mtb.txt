@@ -1,0 +1,11 @@
+after_0.jpg, 0.04
+after_1.jpg, 0.025
+after_2.jpg, 0.01667
+after_3.jpg, 0.01
+after_4.jpg, 0.00625
+after_5.jpg, 0.004
+after_6.jpg, 0.0025
+after_7.jpg, 0.0015625
+after_8.jpg, 0.001
+after_9.jpg, 0.000625
+after_10.jpg, 0.0004
